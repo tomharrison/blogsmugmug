@@ -1,0 +1,34 @@
+Blog SmugMug ReadMe
+
+Blog SmugMug ("BSM") is a WordPress plug-in that makes it easy to blog your
+SmugMug photos. 
+
+This software is not official SmugMug software, and is not affiliated with
+nor endorsed by SmugMug, Inc.
+
+BETA SOFTWARE
+
+This software is currently in beta, and may contain bugs. Use it at your
+own risk.
+
+INSTALLATION
+
+1. Download and extract the zip archive.
+2. Upload the entire "blogsmugmug" folder to the wp-content/plugins folder
+   in your WordPress directory online.
+3. Go to the WordPress plug-ins screen and find "Blog SmugMug" in the list.
+4. Click "Activate Plugin" to activate it.
+5. Visit the "Blog SmugMug" section of WordPress' "Settings" menu.
+6. Enter your SmugMug nickname* and press "Save Changes".
+
+* Your SmugMug nickname corresponds to the subdomain where your SmugMug
+gallery is found online. If your gallery URL is http://example.smugmug.com,
+then your nickname is "example".
+
+USE
+
+1. Create or edit a WordPress post.
+2. Click the SmugMug icon in the media toolbar, directly above the editor.
+3. Click on a gallery.
+4. Click on a photo.
+5. Change whatever form fields you like and insert the photo into your post.
